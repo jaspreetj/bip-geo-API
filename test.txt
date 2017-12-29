@@ -5,4 +5,8 @@ change 2
 change 3 online
 change 5 online
 change 4 local
+<<<<<<< HEAD
 change 6 local
+=======
+change 6 online
+>>>>>>> cc00138cc68d9d887ff8fd860008bae54847e64e
